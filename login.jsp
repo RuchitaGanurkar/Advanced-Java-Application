@@ -1,8 +1,4 @@
-<%-- 
-    Document   : login
-    Created on : 18-Aug-2023, 1:56:16 PM
-    Author     : Windows 11
---%>
+
 
  <%@page import="com.tech.blog.entities.Message"%>
 <%--css
